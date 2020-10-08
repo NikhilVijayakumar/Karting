@@ -9,12 +9,21 @@ EditorBuildSettings:
     path: Assets/Karting/Scenes/IntroMenu.unity
     guid: d29260d8d84c94bd7ac95807b3da99d4
   - enabled: 1
-    path: Assets/Karting/Scenes/MainScene.unity
+    path: Assets/Karting/Scenes/GameMode.unity
+    guid: 0526e8f32955caf4e9f55e1bf4cf2dcd
+  - enabled: 1
+    path: Assets/Karting/Scenes/CheckPoints.unity
     guid: 92786e23da2af4a4f8803aaf44c47121
   - enabled: 1
-    path: Assets/Karting/Scenes/LoseScene.unity
-    guid: 9c449e01147824b419cda406398fb2e7
+    path: Assets/Karting/Scenes/CrashMode.unity
+    guid: 304d15724b174f84183964a388ce7cdf
+  - enabled: 1
+    path: Assets/Karting/Scenes/LapMode.unity
+    guid: c5f7125992a4f884296634acd658a8a4
   - enabled: 1
     path: Assets/Karting/Scenes/WinScene.unity
     guid: d6801f2e59f75ee4b919cf5da4e48e3b
+  - enabled: 1
+    path: Assets/Karting/Scenes/LoseScene.unity
+    guid: 9c449e01147824b419cda406398fb2e7
   m_configObjects: {}
